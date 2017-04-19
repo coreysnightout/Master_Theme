@@ -1,18 +1,10 @@
-h1 {
-  color: blue;
-  text-align: center;
-}
-
-h2 {
+h1.intro {
+  width: 80%;
   font-style: italic;
-  text-align: center;
-  color: teal;
+  font-weight: bold;
 }
 
-p {
-  color: gray;
-}
-
-body {
-  background-color: skyblue;
+p.important {
+  font-family: sans-serif;
+  width; 40%;
 }
