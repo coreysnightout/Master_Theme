@@ -7,4 +7,9 @@ h1.intro {
 p.important {
   font-family: sans-serif;
   width; 40%;
+  color: red;
+}
+
+img.Top-Fido {
+  align-content: center;
 }
