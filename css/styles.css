@@ -4,12 +4,14 @@ h1.intro {
   font-weight: bold;
 }
 
-p.important {
+.important {
   font-family: sans-serif;
   width; 40%;
   color: red;
 }
 
-img.Top-Fido {
-  align-content: center;
+.email {
+  color: teal;
+  font-size: 20;
+  font-weight: bolder;
 }
